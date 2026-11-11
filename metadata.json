@@ -1,0 +1,8 @@
+{
+  "name": "Attendance Sheet & Card Studio",
+  "description": "Create custom attendance sheets with rolls, department, section, and subject, generate unique high-quality visual cards, and backup to Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
